@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Inter";
+    src: url(./assets/fonts/Inter-Regular.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    
+    background: #FFFFFF;
+
+    
+}
+
+#card1 {
+    width: 777px;
+    height: 311px;
+
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+
+    margin-left: 41px;
+    margin-top: 78px;
+
+    display: flex;
+    display: inline-block;
+}
+
+#card2 {
+    width: 777px;
+    height: 311px;
+    
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+
+    float: right;
+    margin-right: 57px;
+    margin-top: 103px;
+    
+}
+
+hr {
+    border: 2px solid #DFDFDF;
+    margin-left: 34px;
+    margin-top: 107px;
+
+}
+
+#img1 {
+    width: 237.95px;
+    height: 184.57px;
+    margin-left: 23px;
+    margin-top: 63px;
+}
+
+#h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #000000;
+
+    margin-left: 287px;
+    margin-top: 63px;
+}
+
